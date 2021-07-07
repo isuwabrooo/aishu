@@ -5,11 +5,11 @@
 <a href="#"><img title="Tokyo" src="https://img.shields.io/badge/Tokyo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Saniya"><img title="Author" src="https://img.shields.io/badge/Author-Saniya/Tokyo?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Saniya"><img title="Author" src="https://img.shields.io/badge/Author-Tokyoxsaniya/Tokyo?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Saniya">Saniya</a> to make it public
+Project created by <a href="https://github.com/Tokyoxsaniya">Tokyoxsaniya</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Saniya">Saniya</a> to make it pub
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Saniya/Tokyo">
-    <img src="https://img.shields.io/github/repo-size/Saniya/Tokyo?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Tokyoxsaniya/Tokyo">
+    <img src="https://img.shields.io/github/repo-size/Tokyoxsaniya/Tokyo?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Saniya/followers"><img title="Followers" src="https://img.shields.io/github/followers/Saniya?color=blue&style=flat-square"></a>
-<a href="https://github.com/Saniya/Tokyo/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Saniya/Tokyo?color=blue&style=flat-square"></a>
-<a href="https://github.com/Saniya/Tokyo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Saniya/Tokyo?color=blue&style=flat-square"></a>
-<a href="https://github.com/Saniya/Tokyo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Saniya/Tokyo?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tokyoxsaniya?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/Tokyo/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tokyoxsaniya/Tokyo?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/Tokyo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Saniya/Tokyo?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tokyoxsaniya/Tokyo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tokyoxsaniya/Tokyo?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saniya&repo=PublicBot&theme=nightowl)](https://github.com/Saniya/Tokyo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokyoxsaniya&repo=PublicBot&theme=nightowl)](https://github.com/Tokyoxsaniya/Tokyo)
   </div>
     
 ## Setup
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Saniya/Tokyo.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tokyoxsaniya/Tokyo.git)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Saniya/Tokyo
+$ git clone https://github.com/Tokyoxsaniya/Tokyo
 $ cd Tokyo
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Saniya/Tokyo
+$ git clone https://github.com/Tokyoxsaniya/Tokyo
 $ cd Tokyo
 $ chmod +x *
 $ npm i
