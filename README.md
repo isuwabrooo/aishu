@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokyoxsaniya&repo=PublicBot&theme=nightowl)](https://github.com/Tokyoxsaniya/Tokyo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokyoxsaniya&repo=Tokyo&theme=nightowl)](https://github.com/Tokyoxsaniya/Tokyo)
   </div>
     
 ## Setup
