@@ -27,7 +27,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*I'm Not An Admin of This group☹️*",
+            "IM_NOT_ADMIN": "*I'm Not Admin in This group☹️*",
             "BANNED": "Ok Bie!👋",
             "GIVE_ME_USER": "*mention someone😈!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -186,16 +186,16 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Searching your song 🎶*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n*Wait I Will  Searching Your song 🎶*\n",
+            "UPLOADING_SONG": "\n*I Got it😻 Use 🎧 For Better Experience 🎀*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "```Downloading🌀...```",
+            "UPLOADING_VIDEO": "```Uploading 🎥...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
+            "NOT_FOUND": "*I couldn't find anything🥺*",
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Nissaram 🤠```"
+            "DOWNLOADING": "```Converting to sticker🎀```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -219,11 +219,11 @@
             "UPDATE": "*Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*JulieMwol Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..🐥```",
+            "UPDATING": "```Updating..👩‍🎤```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*👰 JulieMwol Restarting*"
+            "AFTER_UPDATE": "*👩‍🎤 Tokyo Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
