@@ -27,12 +27,12 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
-            "BANNED": "Mwonu Ok Bie!",
-            "GIVE_ME_USER": "*arelum mention chey😈!*",
+            "IM_NOT_ADMIN": "*I'm Not An Admin of This group☹️*",
+            "BANNED": "Ok Bie!👋",
+            "GIVE_ME_USER": "*aarenkilum mention chyy😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
+            "ALREADY_PROMOTED": "```He Is Already Admin🙃🤠```",
             "PROMOTED": "```admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
@@ -167,7 +167,7 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*Api key illa aliyaa*\n```remove.bg login for apikey```",
+            "NO_API_KEY": "*Api key illa aliya*\n```remove.bg login for apikey```",
             "RBGING": "```Removing...```"
         },
         "scrapers": {
