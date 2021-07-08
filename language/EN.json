@@ -216,12 +216,12 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*JulieMwol Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "UPDATE": "*Your Tokyobot is completely up-to-date!*",
+            "NEW_UPDATE": "*Tokyobot Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..👩‍🎤```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*Updated 👩‍🎤✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
             "AFTER_UPDATE": "*👩‍🎤 Tokyo Restarting*"
         },
