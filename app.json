@@ -1,9 +1,9 @@
 {
-    "name": "Meenakshi",
-    "description": "Meenakshi(Modified version of WhatsAsena)- Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "KING",
+    "description": "KING(Modified version of WhatsAsena)- Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.hizliresim.com/m13agyp.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/aishwaryastenkasi/aishu",
+    "repository": "https://github.com/isuwabrooo/aishu",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
